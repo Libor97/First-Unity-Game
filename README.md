@@ -15,19 +15,19 @@ Stáhnout Soubory1.rar a Soubory2.rar. Vytvořit libovolnou složku, například
 
 Hráč 1
 
-Pohyb: WASD
-Teleport: Space   ( Teleportne hráče o kousek ve směru pohybu, může tak přeskočit projektily a utéct nebezpečí )
-Blokace: E        ( Hráč použije úder štítem, tento útok dává zároveň poškození nepřátelům a zároveň chrání hráče po dobu užití, blokuje poškození )  
-Útok: Q           ( základní útok, 2 bodnutí mečem )
-Hození zbraně: R  ( hod své zbraně ) 
+Pohyb: WASD   
+Teleport: Space   ( Teleportne hráče o kousek ve směru pohybu, může tak přeskočit projektily a utéct nebezpečí )    
+Blokace: E        ( Hráč použije úder štítem, tento útok dává zároveň poškození nepřátelům a zároveň chrání hráče po dobu užití, blokuje poškození )      
+Útok: Q           ( základní útok, 2 bodnutí mečem )    
+Hození zbraně: R  ( hod své zbraně )    
 
 Hráč 2
 
-Pohyb: Šipky
+Pohyb: Šipky    
 Teleport: Shift                                         
-Blokace: O
-Útok: I
-Hození zbraně: P
+Blokace: O    
+Útok: I   
+Hození zbraně: P    
 
 Cíl hry:
 Na mapě jsou hroby monster, z nichž se spawnují zombie nepřátelé, cílem hráčů je zabíjet monstra a k prevenci spawnování dalších zničit i jejich hroby.

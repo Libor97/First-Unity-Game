@@ -9,7 +9,9 @@ Celý projekt byl můj a celý kod byl psaný pouze mnou a to v C#.
 Bohužel jsem tento a všechny moje ostatní projekty v roce 2021 smazal, tento jsem našel
 nedávno zálohovaný na google drive, ale už se nedostanu k C# skriptům a zdrojovému kodu.  
 
-Spuštění: "Můj nový projekt.exe"
+Návod k zprovoznění:
+
+Stáhnout Soubory1.rar a Soubory2.rar. Vytvořit libovolnou složku, například "Hra" a oba dva archívy extrahovat do té složky. Pak spustit přes "Můj nový projekt.exe". Poté hru vypnout přes Ctr+Alt+Delete -> správce úloh nebo Alt + F4.
 
 Hráč 1
 

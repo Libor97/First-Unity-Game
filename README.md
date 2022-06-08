@@ -24,7 +24,7 @@ Hození zbraně: R  ( hod své zbraně )
 Hráč 2
 
 Pohyb: Šipky
-Teleport: Shift
+Teleport: Shift                                         
 Blokace: O
 Útok: I
 Hození zbraně: P
